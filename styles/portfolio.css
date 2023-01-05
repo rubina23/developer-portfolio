@@ -153,5 +153,40 @@ about .info-title {
     color: #757575;
 
 }
+
 /* Resume styles  */
 
+.resume-content {
+    display: flex;
+    gap: 24px;
+}
+
+
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.resume-item .title {
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+}
+
+.resume-item .sub-title {
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+
+.resume .description {
+    color: #757575;
+}
+
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
+}
